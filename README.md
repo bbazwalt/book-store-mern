@@ -1,3 +1,11 @@
+# book-store
+
+Book Store Web App
+
+• Tech Stack: JavaScript, Node.js, Express, React, MongoDB, Mongoose, Tailwind CSS, Vite
+
+• Wrote REST APIs for CRUD Operations like add, view, update & delete book details
+
 ## Home Page:
 
 ![Alt Text](https://github.com/bbazwalt/book-store/blob/main/screenshots/home-page.png)
