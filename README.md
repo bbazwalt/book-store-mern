@@ -6,7 +6,7 @@
 
 ![Alt Text](https://github.com/bbazwalt/book-store/blob/main/screenshots/adding-new-book.png)
 
-## Updating Existing Book Page:
+## Updating Existing Book:
 
 ![Alt Text](https://github.com/bbazwalt/book-store/blob/main/screenshots/updating-existing-book.png)
 
