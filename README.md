@@ -1,4 +1,4 @@
-# book-store
+# book-store-mern
 
 Book Store Web App
 
