@@ -18,6 +18,6 @@ Book Store Web App
 
 ![Updating Existing Book](https://github.com/bbazwalt/book-store/blob/main/screenshots/updating-existing-book.png)
 
-## Deleting A Book:
+## Deleting Book:
 
-![Deleting A Book](https://github.com/bbazwalt/book-store/blob/main/screenshots/deleting-a-book.png)
+![Deleting Book](https://github.com/bbazwalt/book-store/blob/main/screenshots/deleting-book.png)
