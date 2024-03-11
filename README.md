@@ -2,22 +2,22 @@
 
 Book Store Web App
 
-• Tech Stack: JavaScript, Node.js, Express, React, MongoDB, Mongoose, Tailwind CSS, Vite
+• Tech Stack: JavaScript, Node.js, Express, React, Tailwind CSS, MongoDB & Mongoose.
 
-• Wrote REST APIs for CRUD Operations like add, view, update & delete book details
+• Wrote REST APIs for CRUD Operations like add, view, update & delete book details.
 
 ## Home Page:
 
-![Alt Text](https://github.com/bbazwalt/book-store/blob/main/screenshots/home-page.png)
+![Home Page](https://github.com/bbazwalt/book-store/blob/main/screenshots/home-page.png)
 
 ## Adding New Book:
 
-![Alt Text](https://github.com/bbazwalt/book-store/blob/main/screenshots/adding-new-book.png)
+![Adding New Book](https://github.com/bbazwalt/book-store/blob/main/screenshots/adding-new-book.png)
 
 ## Updating Existing Book:
 
-![Alt Text](https://github.com/bbazwalt/book-store/blob/main/screenshots/updating-existing-book.png)
+![Updating Existing Book](https://github.com/bbazwalt/book-store/blob/main/screenshots/updating-existing-book.png)
 
 ## Deleting A Book:
 
-![Alt Text](https://github.com/bbazwalt/book-store/blob/main/screenshots/deleting-a-book.png)
+![Deleting A Book](https://github.com/bbazwalt/book-store/blob/main/screenshots/deleting-a-book.png)
