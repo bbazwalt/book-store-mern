@@ -4,7 +4,7 @@ Book Store Web App
 
 • Tech Stack: JavaScript, Node.js, Express, React, Tailwind CSS, MongoDB & Mongoose.
 
-• Wrote REST APIs for CRUD Operations like add, view, update & delete book details.
+• Implemented functionalities like adding, updating & deleting book details.
 
 ## Home Page:
 
